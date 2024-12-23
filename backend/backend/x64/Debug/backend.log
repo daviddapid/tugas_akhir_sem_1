@@ -1,0 +1,206 @@
+﻿  main.cpp
+  Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+  - add -D_WIN32_WINNT=0x0601 to the compiler command line; or
+  - add _WIN32_WINNT=0x0601 to your project's Preprocessor Definitions.
+  Assuming _WIN32_WINNT=0x0601 (i.e. Windows 7 target).
+E:\kuliah\pemdas\tugas_akhir_sem_1\backend\libs\crow_all.h(3686,35): warning C4267: 'argument': conversion from 'size_t' to 'uint32_t', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\kuliah\pemdas\tugas_akhir_sem_1\backend\libs\crow_all.h(4168,32): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\kuliah\pemdas\tugas_akhir_sem_1\backend\libs\crow_all.h(4681,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\kuliah\pemdas\tugas_akhir_sem_1\backend\libs\crow_all.h(4700,48): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\kuliah\pemdas\tugas_akhir_sem_1\backend\libs\crow_all.h(4702,53): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+E:\kuliah\pemdas\tugas_akhir_sem_1\backend\libs\crow_all.h(4702,53): warning C4267:         with
+E:\kuliah\pemdas\tugas_akhir_sem_1\backend\libs\crow_all.h(4702,53): warning C4267:         [
+E:\kuliah\pemdas\tugas_akhir_sem_1\backend\libs\crow_all.h(4702,53): warning C4267:             _Ty=int
+E:\kuliah\pemdas\tugas_akhir_sem_1\backend\libs\crow_all.h(4702,53): warning C4267:         ]
+  (compiling source file 'main.cpp')
+  
+E:\kuliah\pemdas\tugas_akhir_sem_1\backend\libs\crow_all.h(4803,94): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\kuliah\pemdas\tugas_akhir_sem_1\backend\libs\crow_all.h(4951,54): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\kuliah\pemdas\tugas_akhir_sem_1\backend\libs\crow_all.h(4962,54): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\kuliah\pemdas\tugas_akhir_sem_1\backend\libs\crow_all.h(4980,54): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\kuliah\pemdas\tugas_akhir_sem_1\backend\libs\crow_all.h(4991,54): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\kuliah\pemdas\tugas_akhir_sem_1\backend\libs\crow_all.h(6427,32): warning C4244: '=': conversion from '__int64' to 'unsigned long', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\kuliah\pemdas\tugas_akhir_sem_1\backend\libs\crow_all.h(6447,32): warning C4244: '=': conversion from '__int64' to 'unsigned long', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\kuliah\pemdas\tugas_akhir_sem_1\backend\libs\crow_all.h(10177,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\kuliah\pemdas\tugas_akhir_sem_1\backend\libs\crow_all.h(12129,70): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\kuliah\pemdas\tugas_akhir_sem_1\backend\libs\crow_all.h(12150,70): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\kuliah\pemdas\tugas_akhir_sem_1\backend\libs\crow_all.h(12171,70): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\kuliah\pemdas\tugas_akhir_sem_1\backend\libs\crow_all.h(12193,61): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\kuliah\pemdas\tugas_akhir_sem_1\backend\libs\crow_all.h(12209,61): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\kuliah\pemdas\tugas_akhir_sem_1\backend\libs\crow_all.h(12224,61): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\kuliah\pemdas\tugas_akhir_sem_1\backend\libs\crow_all.h(12279,53): warning C4267: '+=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\kuliah\pemdas\tugas_akhir_sem_1\backend\libs\crow_all.h(12290,45): warning C4267: '+=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\kuliah\pemdas\tugas_akhir_sem_1\backend\libs\crow_all.h(12543,101): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\kuliah\pemdas\tugas_akhir_sem_1\backend\libs\crow_all.h(12543,87): warning C4267: 'argument': conversion from 'size_t' to 'uint16_t', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\kuliah\pemdas\tugas_akhir_sem_1\backend\libs\crow_all.h(12549,118): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\kuliah\pemdas\tugas_akhir_sem_1\backend\libs\crow_all.h(12610,111): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\kuliah\pemdas\tugas_akhir_sem_1\backend\libs\crow_all.h(12755,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\kuliah\pemdas\tugas_akhir_sem_1\backend\main.cpp(96,29): warning C4244: '=': conversion from 'int64_t' to 'int', possible loss of data
+E:\kuliah\pemdas\tugas_akhir_sem_1\backend\main.cpp(98,35): warning C4244: '=': conversion from 'int64_t' to 'int', possible loss of data
+E:\kuliah\pemdas\tugas_akhir_sem_1\backend\main.cpp(99,31): warning C4244: '=': conversion from 'int64_t' to 'int', possible loss of data
+E:\kuliah\pemdas\tugas_akhir_sem_1\backend\main.cpp(100,35): warning C4244: '=': conversion from 'int64_t' to 'int', possible loss of data
+E:\kuliah\pemdas\tugas_akhir_sem_1\backend\main.cpp(101,35): warning C4244: '=': conversion from 'int64_t' to 'int', possible loss of data
+E:\kuliah\pemdas\tugas_akhir_sem_1\backend\main.cpp(102,33): warning C4244: '=': conversion from 'int64_t' to 'int', possible loss of data
+E:\kuliah\pemdas\tugas_akhir_sem_1\backend\main.cpp(104,43): warning C4244: '=': conversion from 'int64_t' to 'int', possible loss of data
+E:\kuliah\pemdas\tugas_akhir_sem_1\backend\libs\crow_all.h(14088,37): warning C4267: '=': conversion from 'size_t' to 'uint16_t', possible loss of data
+  (compiling source file 'main.cpp')
+      E:\kuliah\pemdas\tugas_akhir_sem_1\backend\libs\crow_all.h(14088,37):
+      the template instantiation context (the oldest one first) is
+          E:\kuliah\pemdas\tugas_akhir_sem_1\backend\main.cpp(156,31):
+          see reference to class template instantiation 'crow::Crow<crow::CORSHandler>' being compiled
+          E:\kuliah\pemdas\tugas_akhir_sem_1\backend\libs\crow_all.h(14661,14):
+          while compiling class template member function 'void crow::Crow<crow::CORSHandler>::run(void)'
+              E:\kuliah\pemdas\tugas_akhir_sem_1\backend\main.cpp(265,7):
+              see the first reference to 'crow::Crow<crow::CORSHandler>::run' in 'main'
+          E:\kuliah\pemdas\tugas_akhir_sem_1\backend\libs\crow_all.h(14687,26):
+          see reference to class template instantiation 'crow::Server<crow::Crow<crow::CORSHandler>,crow::SocketAdaptor,crow::CORSHandler>' being compiled
+          E:\kuliah\pemdas\tugas_akhir_sem_1\backend\libs\crow_all.h(14077,18):
+          while compiling class template member function 'uint16_t crow::Server<crow::Crow<crow::CORSHandler>,crow::SocketAdaptor,crow::CORSHandler>::pick_io_service_idx(void)'
+              E:\kuliah\pemdas\tugas_akhir_sem_1\backend\libs\crow_all.h(14097,38):
+              see the first reference to 'crow::Server<crow::Crow<crow::CORSHandler>,crow::SocketAdaptor,crow::CORSHandler>::pick_io_service_idx' in 'crow::Server<crow::Crow<crow::CORSHandler>,crow::SocketAdaptor,crow::CORSHandler>::do_accept'
+              E:\kuliah\pemdas\tugas_akhir_sem_1\backend\libs\crow_all.h(14027,22):
+              see the first reference to 'crow::Server<crow::Crow<crow::CORSHandler>,crow::SocketAdaptor,crow::CORSHandler>::do_accept' in 'crow::Server<crow::Crow<crow::CORSHandler>,crow::SocketAdaptor,crow::CORSHandler>::run'
+              E:\kuliah\pemdas\tugas_akhir_sem_1\backend\libs\crow_all.h(14693,29):
+              see the first reference to 'crow::Server<crow::Crow<crow::CORSHandler>,crow::SocketAdaptor,crow::CORSHandler>::run' in 'crow::Crow<crow::CORSHandler>::run'
+              E:\kuliah\pemdas\tugas_akhir_sem_1\backend\main.cpp(265,7):
+              see the first reference to 'crow::Crow<crow::CORSHandler>::run' in 'main'
+  
+E:\kuliah\pemdas\tugas_akhir_sem_1\backend\libs\crow_all.h(13719,75): warning C4244: 'argument': conversion from 'unsigned __int64' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+      E:\kuliah\pemdas\tugas_akhir_sem_1\backend\libs\crow_all.h(13719,75):
+      the template instantiation context (the oldest one first) is
+          E:\kuliah\pemdas\tugas_akhir_sem_1\backend\libs\crow_all.h(14093,14):
+          while compiling class template member function 'void crow::Server<crow::Crow<crow::CORSHandler>,crow::SocketAdaptor,crow::CORSHandler>::do_accept(void)'
+              E:\kuliah\pemdas\tugas_akhir_sem_1\backend\libs\crow_all.h(14027,22):
+              see the first reference to 'crow::Server<crow::Crow<crow::CORSHandler>,crow::SocketAdaptor,crow::CORSHandler>::do_accept' in 'crow::Server<crow::Crow<crow::CORSHandler>,crow::SocketAdaptor,crow::CORSHandler>::run'
+              E:\kuliah\pemdas\tugas_akhir_sem_1\backend\libs\crow_all.h(14693,29):
+              see the first reference to 'crow::Server<crow::Crow<crow::CORSHandler>,crow::SocketAdaptor,crow::CORSHandler>::run' in 'crow::Crow<crow::CORSHandler>::run'
+              E:\kuliah\pemdas\tugas_akhir_sem_1\backend\main.cpp(265,7):
+              see the first reference to 'crow::Crow<crow::CORSHandler>::run' in 'main'
+          E:\kuliah\pemdas\tugas_akhir_sem_1\backend\libs\crow_all.h(14107,19):
+          see reference to class template instantiation 'crow::Connection<Adaptor,Handler,crow::CORSHandler>' being compiled
+          with
+          [
+              Adaptor=crow::SocketAdaptor,
+              Handler=crow::Crow<crow::CORSHandler>
+          ]
+          E:\kuliah\pemdas\tugas_akhir_sem_1\backend\libs\crow_all.h(13710,14):
+          while compiling class template member function 'void crow::Connection<Adaptor,Handler,crow::CORSHandler>::do_read(void)'
+          with
+          [
+              Adaptor=crow::SocketAdaptor,
+              Handler=crow::Crow<crow::CORSHandler>
+          ]
+              E:\kuliah\pemdas\tugas_akhir_sem_1\backend\libs\crow_all.h(13341,34):
+              see the first reference to 'crow::Connection<Adaptor,Handler,crow::CORSHandler>::do_read' in 'crow::Connection<Adaptor,Handler,crow::CORSHandler>::start::<lambda_1>::operator ()'
+          with
+          [
+              Adaptor=crow::SocketAdaptor,
+              Handler=crow::Crow<crow::CORSHandler>
+          ]
+  
+E:\kuliah\pemdas\tugas_akhir_sem_1\backend\libs\crow_all.h(8943,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+      E:\kuliah\pemdas\tugas_akhir_sem_1\backend\libs\crow_all.h(8943,25):
+      the template instantiation context (the oldest one first) is
+          E:\kuliah\pemdas\tugas_akhir_sem_1\backend\libs\crow_all.h(13831,32):
+          see reference to class template instantiation 'crow::HTTPParser<crow::Connection<Adaptor,Handler,crow::CORSHandler>>' being compiled
+          with
+          [
+              Adaptor=crow::SocketAdaptor,
+              Handler=crow::Crow<crow::CORSHandler>
+          ]
+          E:\kuliah\pemdas\tugas_akhir_sem_1\backend\libs\crow_all.h(8927,14):
+          while compiling class template member function 'bool crow::HTTPParser<crow::Connection<Adaptor,Handler,crow::CORSHandler>>::feed(const char *,int)'
+          with
+          [
+              Adaptor=crow::SocketAdaptor,
+              Handler=crow::Crow<crow::CORSHandler>
+          ]
+              E:\kuliah\pemdas\tugas_akhir_sem_1\backend\libs\crow_all.h(13719,32):
+              see the first reference to 'crow::HTTPParser<crow::Connection<Adaptor,Handler,crow::CORSHandler>>::feed' in 'crow::Connection<Adaptor,Handler,crow::CORSHandler>::do_read::<lambda_1>::operator ()'
+          with
+          [
+              Adaptor=crow::SocketAdaptor,
+              Handler=crow::Crow<crow::CORSHandler>
+          ]
+  
+E:\kuliah\pemdas\tugas_akhir_sem_1\backend\libs\crow_all.h(11121,54): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+E:\kuliah\pemdas\tugas_akhir_sem_1\backend\libs\crow_all.h(11121,54): warning C4244:         with
+E:\kuliah\pemdas\tugas_akhir_sem_1\backend\libs\crow_all.h(11121,54): warning C4244:         [
+E:\kuliah\pemdas\tugas_akhir_sem_1\backend\libs\crow_all.h(11121,54): warning C4244:             _Ty=crow::black_magic::single_tag_to_type<1>::type
+E:\kuliah\pemdas\tugas_akhir_sem_1\backend\libs\crow_all.h(11121,54): warning C4244:         ]
+  (compiling source file 'main.cpp')
+      E:\kuliah\pemdas\tugas_akhir_sem_1\backend\libs\crow_all.h(11121,54):
+      the template instantiation context (the oldest one first) is
+          E:\kuliah\pemdas\tugas_akhir_sem_1\backend\main.cpp(205,2):
+          see reference to function template instantiation 'void crow::TaggedRule<crow::black_magic::single_tag_to_type<1>::type>::operator ()<main::<lambda_3>>(Func &&)' being compiled
+          with
+          [
+              Func=main::<lambda_3>
+          ]
+              E:\kuliah\pemdas\tugas_akhir_sem_1\backend\main.cpp(205,36):
+              see the first reference to 'crow::TaggedRule<crow::black_magic::single_tag_to_type<1>::type>::operator ()' in 'main'
+          E:\kuliah\pemdas\tugas_akhir_sem_1\backend\libs\crow_all.h(11915,27):
+          see reference to function template instantiation 'void crow::detail::wrapped_handler_call<main::<lambda_3>,_Ty>(crow::request &,crow::response &,const F &,_Ty &&)' being compiled
+          with
+          [
+              _Ty=crow::black_magic::single_tag_to_type<1>::type,
+              F=main::<lambda_3>
+          ]
+  
+E:\kuliah\pemdas\tugas_akhir_sem_1\backend\main.cpp(150,1): warning C4715: 'getProductById': not all control paths return a value
+E:\kuliah\pemdas\tugas_akhir_sem_1\backend\main.cpp(121,1): warning C4715: 'findOrderById': not all control paths return a value
+  backend.vcxproj -> E:\kuliah\pemdas\tugas_akhir_sem_1\backend\x64\Debug\backend.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
