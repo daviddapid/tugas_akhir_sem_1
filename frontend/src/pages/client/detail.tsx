@@ -1,3 +1,4 @@
+import { CartLink } from "@/components/custom/cart-link";
 import { Button } from "@/components/ui/button";
 import { Product } from "@/entities/product.entity";
 import { getSingleProduct } from "@/fetching/product";
@@ -22,7 +23,7 @@ export default function DetailPage() {
 				<Link to={"/"}>
 					<ArrowLeft className="text-white" />
 				</Link>
-				<ShoppingBag className="text-white" />
+				<CartLink className="text-white" />
 			</div>
 			<div className="grid grid-cols-3">
 				<div className="text-white mt-12 px-5 col-span-2">

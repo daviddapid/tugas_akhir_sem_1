@@ -1,3 +1,4 @@
+import { CartLink } from "@/components/custom/cart-link";
 import { Button } from "@/components/ui/button";
 import { ProductOrder } from "@/entities/product-order.entity";
 import { Product } from "@/entities/product.entity";
@@ -74,7 +75,7 @@ export default function OrderPage() {
 					<ArrowLeft className="text-white" />
 				</Link>
 				<h1 className="text-xl text-white leading-none">{product?.name}</h1>
-				<ShoppingBag className="text-white" />
+				<CartLink className="text-white" />
 			</div>
 			<div className="flex justify-center mt-9">
 				<div className="rounded-full bg-white w-[250px] h-[250px] flex justify-center items-center">

@@ -1,9 +1,10 @@
 import { CardProduct, CardProductSkeleton } from "@/components/custom/card-product";
+import { CartLink } from "@/components/custom/cart-link";
 import { Product } from "@/entities/product.entity";
 import { getProducts } from "@/fetching/product";
 import { ShoppingBag } from "lucide-react";
 import { useEffect, useState } from "react";
-import { useNavigate } from "react-router";
+import { Link, useNavigate } from "react-router";
 import { Swiper, SwiperSlide } from "swiper/react";
 
 import "swiper/swiper-bundle.css";
@@ -25,7 +26,7 @@ export default function HomePage() {
 			<header className=" px-[20px]">
 				<div className="flex justify-between mt-8 items-center mb-5">
 					<h1 className="text-3xl font-semibold">NgombeanKu</h1>
-					<ShoppingBag />
+					<CartLink />
 				</div>
 				{/* <Input placeholder="search..." className="py-5" /> */}
 			</header>
